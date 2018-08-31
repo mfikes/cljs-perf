@@ -2,10 +2,10 @@
 ClojureScript compiler perf measurements
 
 
-|Release|Single-Threaded|Multithreaded|
-|-------|---------------|-------------|
-|1.10.238|              | 748656.324444 msecs |
-|master*|              | 748656.324444 msecs |
+|Release |Single-Threaded|Multithreaded|
+|--------|---------------|-------------|
+|1.10.238|               | 748656.324444 msecs |
+|master* |               | xxx.xxxx msecs |
 
 * `:sha`: `d2e4424cec693b59af67051aebefca971a477567`
 
