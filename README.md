@@ -4,7 +4,7 @@ ClojureScript compiler perf measurements. Raw time compiling Coal Mine source, a
 
 |Version |Single-Threaded|Multithreaded|
 |--------|---------------|-------------|
-|1.10.238| 4027 s (1.00)| 748 s (1.00)|
+|[1.10.238](https://github.com/clojure/clojurescript/commit/98e2dbb89da75a4439f50d94d6a1c8f8ac62ba13)| 4027 s (1.00)| 748 s (1.00)|
 |1.10.329|               | 759 s (0.98)|
 |1.10.339|               | 818 s (0.91)|
 |[`d2e4424`](https://github.com/clojure/clojurescript/commit/d2e4424cec693b59af67051aebefca971a477567) |               | 613 s (1.22)|
