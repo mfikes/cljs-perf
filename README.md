@@ -9,6 +9,7 @@ ClojureScript compiler perf measurements. Raw time compiling Coal Mine corpus.
 |[1.10.329](https://github.com/clojure/clojurescript/commit/359d34ef57a436c05658a114f9f685c85e28d766)|               | 759 s|
 |[1.10.339](https://github.com/clojure/clojurescript/commit/b1ade48e21f9e7f78d9db74559ce4dd5846d0c94)|   4279 s | 818 s|
 |[`c3732db`](https://github.com/clojure/clojurescript/commit/c3732db435b37b5ebd5f87af3860007b39db697b) |  2570 s              | 579 s |
+|[`284872f`](https://github.com/clojure/clojurescript/commit/284872fb50cac0bd3a5d13c8e3aeaecd3481e03f) | |
 
 # Test Commands
 
