@@ -1,5 +1,5 @@
 # cljs-perf
-ClojureScript compiler perf measurements. Raw time compiling Coal Mine source, and speedup relative to 1.10.238 in parenthesis.
+ClojureScript compiler perf measurements. Raw time compiling Coal Mine corpus, and speedup relative to 1.10.238 in parenthesis.
 
 
 |Version |Single-Threaded|Multithreaded|
