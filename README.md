@@ -13,7 +13,7 @@ ClojureScript compiler perf measurements. Raw time compiling Coal Mine corpus.
 
 # Test Commands
 
-Note: If you'd like to run a shorter test (perhaps to benchmark a candidate change), just compile `coal-mine/test-runner-1`.
+To run a shorter test, compile `coal-mine/test-runner-1`.
 
 ## Single Threaded
 
