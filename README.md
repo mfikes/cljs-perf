@@ -8,7 +8,7 @@ ClojureScript compiler perf measurements. Raw time compiling Coal Mine source, a
 |1.10.329|               | 759029.334984 msecs (0.98)|
 |1.10.339|               | 818639.654404 msecs (0.91)|
 |master`*` |               | 613959.738136 msecs (1.22)|
-|`c3732db435b37b5ebd5f87af3860007b39db697b` |                | |
+|[`c3732db435b37b5ebd5f87af3860007b39db697b`](https://github.com/clojure/clojurescript/commit/c3732db435b37b5ebd5f87af3860007b39db697b) |                | |
 
 `*` `:sha`: `d2e4424cec693b59af67051aebefca971a477567`
 
