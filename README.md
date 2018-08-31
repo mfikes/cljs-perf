@@ -2,7 +2,9 @@
 ClojureScript compiler perf measurements
 
 
-
+|Release|Single-Threaded|Multithreaded|
+|-------|---------------|-------------|
+|1.10.238|              | 748656.324444 msecs |
 
 # Test Commands
 
