@@ -2,7 +2,7 @@
 ClojureScript compiler perf measurements. Raw time compiling Coal Mine source, and speedup relative to 1.10.238 in parenthesis.
 
 
-|Release |Single-Threaded|Multithreaded|
+|Version |Single-Threaded|Multithreaded|
 |--------|---------------|-------------|
 |1.10.238| 4027791.764564 msecs (1.00)| 748656.324444 msecs (1.00)|
 |1.10.329|               | 759029.334984 msecs (0.98)|
