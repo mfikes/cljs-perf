@@ -1,5 +1,5 @@
 # cljs-perf
-ClojureScript compiler perf measurements. Raw time compiling Coal Mine corpus.
+ClojureScript compiler perf measurements. Raw time compiling [Coal Mine](https://github.com/mfikes/coal-mine) corpus.
 
 
 |Version |Non-Parallel Build|Parallel Build|
