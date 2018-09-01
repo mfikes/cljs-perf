@@ -11,7 +11,7 @@ ClojureScript compilation time for a [specific `:sha`](https://github.com/mfikes
 |[`826b379`](https://github.com/clojure/clojurescript/commit/826b3790e91dff84f502e863d0c4f8cf15cc03a0) ||
 |[`f8b4125`](https://github.com/clojure/clojurescript/commit/f8b4125cbef671143b241881afdfc0195cf36480) ||
 |[`d38e001`](https://github.com/clojure/clojurescript/commit/d38e001b617c849be53fcc588b5a454e3acfa51d) ||
-|[`81a1ea1`](https://github.com/clojure/clojurescript/commit/81a1ea127974d43a6166fbdae33bcaa296fe9156) ||
+|[`81a1ea1`](https://github.com/clojure/clojurescript/commit/81a1ea127974d43a6166fbdae33bcaa296fe9156) | 3848 s|
 |[1.10.339](https://github.com/clojure/clojurescript/commit/b1ade48e21f9e7f78d9db74559ce4dd5846d0c94)|   3974 s | |
 |[`d91207c`](https://github.com/clojure/clojurescript/commit/d91207cb7386365a07b563b09b6444846657a364) | 3800 s|
 |[1.10.329](https://github.com/clojure/clojurescript/commit/359d34ef57a436c05658a114f9f685c85e28d766)|  3852 s | 759 s|
