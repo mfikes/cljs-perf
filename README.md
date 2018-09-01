@@ -2,7 +2,7 @@
 ClojureScript compiler perf measurements. Time compiling [Coal Mine](https://github.com/mfikes/coal-mine) corpus.
 
 
-|Version |Non-Parallel Build|Parallel Build|
+|Version |Regular Build|Parallel Build|
 |--------|---------------:|-------------:|
 |[`980d1fa`](https://github.com/clojure/clojurescript/commit/980d1fa9f14a4ec5caad1e2a8b734795094e0eba) | 2190 s| 515 s|
 |[`c3732db`](https://github.com/clojure/clojurescript/commit/c3732db435b37b5ebd5f87af3860007b39db697b) |  2570 s              | 579 s |
