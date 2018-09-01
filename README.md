@@ -38,4 +38,4 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.162-b12, mixed mode)
 
 # Hardware
 
-Dual Hexacore Mid-2012 Mac Pro, 128 GB
+Dual hexa-core Mid-2012 Mac Pro, 128 GB
