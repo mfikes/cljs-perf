@@ -1,5 +1,5 @@
 # cljs-perf
-ClojureScript compilations time for a given `:sha` of the [Coal Mine](https://github.com/mfikes/coal-mine) corpus:
+ClojureScript compilation time for a given `:sha` of the [Coal Mine](https://github.com/mfikes/coal-mine) corpus:
 
 
 |Version |Regular Build|Parallel Build|
