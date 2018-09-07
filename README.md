@@ -4,6 +4,7 @@ ClojureScript compilation time for a [specific `:sha`](https://github.com/mfikes
 
 |Version |Regular Build|Parallel Build|
 |--------|---------------:|-------------:|
+|[`fc66a5a`](https://github.com/clojure/clojurescript/commit/fc66a5a558b2749c93e1d29605bb69d58f0ad36f) | TBD s | TBD s |
 |[`83866aa`](https://github.com/clojure/clojurescript/commit/83866aaf597f183877c0cf586c002f3b8b51d487) | 1764 s | 406 s |
 |[`4f37076`](https://github.com/clojure/clojurescript/commit/4f3707624846a2cf0345859e41370ec172da73c4) | 1997 s | 482 s |
 |[`980d1fa`](https://github.com/clojure/clojurescript/commit/980d1fa9f14a4ec5caad1e2a8b734795094e0eba) | 2190 s| 515 s|
