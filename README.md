@@ -5,18 +5,7 @@ ClojureScript compilation time for a [specific `:sha`](https://github.com/mfikes
 |Version |Regular Build|Parallel Build| Java |
 |--------|---------------:|-------------:|--------|
 |[1.10.439](https://github.com/clojure/clojurescript/commit/1e8b057c2fa4aa8d07c1142e7be245331fdbfd9b) | 1731 s | 380 s | 1.8.0_192 |
-|[`fc66a5a`](https://github.com/clojure/clojurescript/commit/fc66a5a558b2749c93e1d29605bb69d58f0ad36f) | 1763 s | 383 s | 1.8.0_162 |
-|[`83866aa`](https://github.com/clojure/clojurescript/commit/83866aaf597f183877c0cf586c002f3b8b51d487) | 1764 s | 406 s |1.8.0_162 |
-|[`4f37076`](https://github.com/clojure/clojurescript/commit/4f3707624846a2cf0345859e41370ec172da73c4) | 1997 s | 482 s |1.8.0_162 |
-|[`980d1fa`](https://github.com/clojure/clojurescript/commit/980d1fa9f14a4ec5caad1e2a8b734795094e0eba) | 2190 s| 515 s|1.8.0_162 |
-|[`c3732db`](https://github.com/clojure/clojurescript/commit/c3732db435b37b5ebd5f87af3860007b39db697b) |  2570 s              | 579 s |1.8.0_162 |
-|[`b2a15b8`](https://github.com/clojure/clojurescript/commit/b2a15b86c46aaadb9b839015862629683db3f38e) | 2558 s ||1.8.0_162 |
-|[`826b379`](https://github.com/clojure/clojurescript/commit/826b3790e91dff84f502e863d0c4f8cf15cc03a0) | 2539 s ||1.8.0_162 |
-|[`f8b4125`](https://github.com/clojure/clojurescript/commit/f8b4125cbef671143b241881afdfc0195cf36480) | 2784 s ||1.8.0_162 |
-|[`d38e001`](https://github.com/clojure/clojurescript/commit/d38e001b617c849be53fcc588b5a454e3acfa51d) | 3421 s ||1.8.0_162 |
-|[`81a1ea1`](https://github.com/clojure/clojurescript/commit/81a1ea127974d43a6166fbdae33bcaa296fe9156) | 3848 s ||1.8.0_162 |
 |[1.10.339](https://github.com/clojure/clojurescript/commit/b1ade48e21f9e7f78d9db74559ce4dd5846d0c94)|   3974 s | 812 s |1.8.0_162 |
-|[`d91207c`](https://github.com/clojure/clojurescript/commit/d91207cb7386365a07b563b09b6444846657a364) | 3800 s ||1.8.0_162 |
 |[1.10.329](https://github.com/clojure/clojurescript/commit/359d34ef57a436c05658a114f9f685c85e28d766)|  3852 s | 759 s|1.8.0_162 |
 |[1.10.312](https://github.com/clojure/clojurescript/commit/6512df8321b16a819ea4cc870edf25b7c809947e) | 4119 s | 754 s |1.8.0_162 |
 |[1.10.238](https://github.com/clojure/clojurescript/commit/98e2dbb89da75a4439f50d94d6a1c8f8ac62ba13)| 4027 s| 748 s|1.8.0_162 |
