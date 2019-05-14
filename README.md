@@ -30,10 +30,10 @@ To run a shorter test, instead compile `coal-mine/test-runner-1`.
 # Java
 
 ```
-java -version
-java version "1.8.0_162"
-Java(TM) SE Runtime Environment (build 1.8.0_162-b12)
-Java HotSpot(TM) 64-Bit Server VM (build 25.162-b12, mixed mode)
+$ java -version
+java version "1.8.0_192"
+Java(TM) SE Runtime Environment (build 1.8.0_192-b12)
+Java HotSpot(TM) 64-Bit Server VM (build 25.192-b12, mixed mode)
 ```
 
 # Hardware
